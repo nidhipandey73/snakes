@@ -1,1 +1,1 @@
-# snakes
+This is a python project using pygame library to replicate the famous snakes game. When the snake eats the food it's length increases. If it overlaps with itself the game ends. If the snake touches the border the game ends. It has a high score feature, which keeps track of the highscore made during any game. Once the game ends the user can press enter to restart the game. 
